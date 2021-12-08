@@ -1,0 +1,20 @@
+{
+  "name": "ui5app",
+  "version": "1.0.0",
+  "description": "Simple ui5 app to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancharlescano/ui5App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancharlescano/ui5App/issues"
+  },
+  "homepage": "https://github.com/jeancharlescano/ui5App#readme"
+}
